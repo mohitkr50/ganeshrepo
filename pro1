@@ -1,0 +1,1 @@
+aws ec2 run-intances --image-id ami-0e731c8a588258d0d --count 1 --instance-type t2-micro --key-name 17thjankeypair --security-group-ids sg-0d7942d88c2e08690 --subnet-id subnet-0810df11ddc21da0c
